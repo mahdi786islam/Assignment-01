@@ -150,3 +150,33 @@
     width: 300px;
     height: 95%;
 }
+
+.video-section{
+    width: 90%;
+    /* border: 2px solid red; */
+    margin: 88px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.video-section h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+.video-section p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.video-yt{
+    border-radius: 16px;
+    width: 60%;
+    height: 550px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    padding: 32px;
+    margin: 80px;
+}
