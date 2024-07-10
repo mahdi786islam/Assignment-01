@@ -237,3 +237,96 @@
     margin: 0px 24px
 }
 
+.my-next-target-container{
+    width: 90%;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+}
+.my-next-target-title{
+    text-align: center;
+}
+.my-next-target-title h2{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+.my-next-target-title p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.my-next-target-cards-1{
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    margin: 0px 24px;
+}
+.my-next-target-card-img{
+    width: 108px;
+    height: 108px;
+    margin: 0px 24px;
+
+}
+.my-next-target-card1 h1{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+.my-next-target-card2 h1{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 30px;
+}
+.my-next-target-card3 h1{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+.my-next-target-card1 p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin: 8px 0px;
+}
+.my-next-target-card2 p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin: 8px 30px;
+}
+.my-next-target-card3 p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin: 8px 0px;
+}
+
+.my-next-target-cards-2{
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    margin: 24px 24px;
+}
+.my-next-target-cards-3{
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    margin: 24px 24px;
+}
